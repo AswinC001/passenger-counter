@@ -1,0 +1,57 @@
+.box{
+    width: 350px;
+    border-radius: 23px;
+    border-width: 15px;
+    outline-offset: 20px;
+    outline-style: groove;
+    outline-width: 8px;
+    border-style: dashed;
+    border-color: rgb(57, 57, 57);
+    color: #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin-top:10%;
+    margin-left: 40%;
+    text-align: center;
+    background-color: rgb(255, 255, 158);
+    
+}
+h1{
+    margin-top: 30px;
+    padding: 20px 0px;
+    font-size: 35px;
+}
+h2{
+    font-size: xx-large;
+    padding: 0% 10%;
+}
+p{
+    font-size: 25px;
+    padding: 10% 10%;
+    
+}
+#incrbtn{
+    padding: 15px 30px;
+    border: 0px;
+    background-color: rgb(60, 12, 12);
+    margin:10px 20px;
+    color: white;
+    border-radius: 30px;
+    
+}
+#savebtn{
+    padding: 15px 30px;
+    border: 0px;
+    background-color: rgb(255, 0, 0);
+    margin:10px 20px;
+    color: white;
+    border-radius: 30px;
+}
+#savebtn:hover{
+    
+    background-color: rgb(255, 84, 84);
+}
+#incrbtn:hover{
+    
+    background-color: rgb(112, 57, 57);
+}
